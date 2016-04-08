@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+You completed the GitHub tutorial!
